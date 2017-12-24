@@ -1,0 +1,7 @@
+D:\Master\Data Mining\KMeans\bin\Release\KMeans.exe.config
+D:\Master\Data Mining\KMeans\bin\Release\KMeans.exe
+D:\Master\Data Mining\KMeans\bin\Release\KMeans.pdb
+D:\Master\Data Mining\KMeans\obj\Release\KMeans.csprojResolveAssemblyReference.cache
+D:\Master\Data Mining\KMeans\obj\Release\KMeans.csproj.CoreCompileInputs.cache
+D:\Master\Data Mining\KMeans\obj\Release\KMeans.exe
+D:\Master\Data Mining\KMeans\obj\Release\KMeans.pdb
